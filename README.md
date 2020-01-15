@@ -1,7 +1,7 @@
 # ClothingDCGAN
 Tensorflow implementation of Deep Convolutional Generative Adversarial Networks (DCGAN) [1] for the dataset ClothingMNIST.
 
-Inspired by implementations of GANs and DCGANs used on the original MNIST dataset [2].
+Inspired by implementations of DCGANs on the original MNIST dataset [2].
 
 ## Reference
 [1] Radford, Alec, Luke Metz, and Soumith Chintala. "Unsupervised representation learning with deep convolutional generative adversarial networks." arXiv preprint arXiv:1511.06434 (2015).
